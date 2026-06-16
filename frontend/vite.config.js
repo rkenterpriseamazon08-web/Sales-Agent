@@ -12,6 +12,7 @@ export default defineConfig({
       },
     },
   },
+  base: '/Sales-Agent/',
   build: {
     outDir: 'dist',
   },
